@@ -47,8 +47,7 @@ calorie_project/
 │   ├── dataset.py           # DishDataset, аугментации, get_loaders
 │   └── utils.py             # DishCalorieModel, train, метрики
 ├── checkpoints/
-│   ├── best_model.pth       # лучший чекпоинт по test MAE
-│   └── history.csv          # история обучения по эпохам
+│   ├── best_model.pth       # лучший чекпоинт по test MAE (появляется только после самостоятельного запуска кода, не загружена на GitHub)
 ├── ДЗ_2_норм.ipynb           # EDA, обучение, валидация, разбор ошибок
 └── README.md
 ```
